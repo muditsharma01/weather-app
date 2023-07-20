@@ -29,9 +29,6 @@ Check out the live demo [here](https://weather-app-project-ms.netlify.app/).
 3. Enter the name of the city you want to check the weather for.
 4. Click the search button or press Enter to get the latest weather updates.
 
-## Contribution 🤝
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
 
 ## Credits 🙏
 
